@@ -2,6 +2,10 @@
 
 This project is an interactive WallPaper image gallery designed with HTML and CSS. It showcases a collection of images with a unique hover effect that transforms the images and displays additional content. Each image is associated with a title and a quote or a short description.
 
+## DEMO:
+[Visit the deployed site](https://dwallphoto.netlify.app/)
+
+
 ## Features
 
 - **Responsive Design:** The gallery is designed to be responsive and adapts to different screen sizes.
